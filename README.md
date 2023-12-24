@@ -9,7 +9,7 @@ I'm a full-stack web developer and business student, having earned a BBA in Acco
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Personal Website **[not yet finished]**](https://sagorislam.dev)
 * ✉️  You can contact me at [alaminislam1274@gmail.com, sagor\_islam@icloud.com]
-* 🚀  I'm currently working on **Local clients** (https://hstradinginternational.com, https://inkingbd.com, https://thisisbas.co)
+* 🚀  I'm currently working on **[Local clients]** (https://hstradinginternational.com, https://inkingbd.com, https://thisisbas.co)
 * 🧠  I'm learning **VueJs**
 
 ### Skills

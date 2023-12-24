@@ -7,9 +7,9 @@ Full Stack Web Developer(Laravel) | Accountant | Business Student
 I'm a full-stack web developer and business student, having earned a BBA in Accounting from Stamford University Bangladesh. As a non-CSE student and self-learner, developing development skills was challenging, but I succeeded. With positive reviews, I worked for 10 months as a full-stack developer for an investment company. Currently learning #VueJs and other essentials, I'm confident that I am one of the men who can be valuable assets for a business, company, or startup.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [Personal Website **not yet finished**](http://sagorislam.dev)
+* 🖥️  See my portfolio at [Personal Website **[not yet finished]**](https://sagorislam.dev)
 * ✉️  You can contact me at [alaminislam1274@gmail.com, sagor\_islam@icloud.com]
-* 🚀  I'm currently working on **Local clients**(https://hstradinginternational.com, https://inkingbd.com, https://thisisbas.co)
+* 🚀  I'm currently working on **Local clients** (https://hstradinginternational.com, https://inkingbd.com, https://thisisbas.co)
 * 🧠  I'm learning **VueJs**
 
 ### Skills
@@ -28,6 +28,6 @@ I'm a full-stack web developer and business student, having earned a BBA in Acco
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SagorIslamOfficial"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SagorIslamOfficial's GitHub stats" /></a>
+<a href="https://www.github.com/SagorIslamOfficial"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SagorIslamOfficial's GitHub stats" /></a>
 
-<a href="https://github.com/SagorIslamOfficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagorIslamOfficial&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.github.com/SagorIslamOfficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagorIslamOfficial&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Alamin Islam(Sagor)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Muhammad Alamin Islam(Sagor)
 ====================================================================================================================================================
 
 Full Stack Web Developer(Laravel) | Accountant | Business Student
@@ -8,7 +8,7 @@ I'm a full-stack web developer and business student, having earned a BBA in Acco
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Personal Website](http://sagorislam.dev)
-* ✉️  You can contact me at [alaminislam1274@gmail.com, sagor\_islam@icloud.com](mailto:alaminislam1274@gmail.com, sagor_islam@icloud.com)
+* ✉️  You can contact me at [alaminislam1274@gmail.com, sagor\_islam@icloud.com]
 * 🚀  I'm currently working on [Local clients](http://thisisbas.co)
 * 🧠  I'm learning VueJS
 

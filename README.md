@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagorislamofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sagorislamofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagorislamofficial" alt="sagorislamofficial" /></a> </p>
-
-- 🔭 I’m currently working on [Hs Trading International, Inking BD](hstradinginternational.com, inkingbd.com)
+- 🔭 I’m currently working on (https://hstradinginternational.com, https://inkingbd.com, https://thisisbas.co)
 
 - 🌱 I’m currently learning **VueJs**
 

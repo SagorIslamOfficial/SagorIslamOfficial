@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Muhammad Alamin Islam(Sagor)
 ====================================================================================================================================================
 
-Full Stack Web Developer(Laravel) | Accountant | Business Student
+Full Stack Web Developer(Laravel) | WordPress | Accountant | Business Student
 -----------------------------------------------------------------
 
 I'm a full-stack web developer and business student, having earned a BBA in Accounting from Stamford University Bangladesh. As a non-CSE student and self-learner, developing development skills was challenging, but I succeeded. With positive reviews, I worked for 10 months as a full-stack developer for an investment company. Currently learning #VueJs and other essentials, I'm confident that I am one of the men who can be valuable assets for a business, company, or startup.

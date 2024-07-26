@@ -35,12 +35,11 @@
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="60" height="60"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a>
 </p>
 
 <br>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Alamin&#39;s GitHub stats" width="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Al Nahian&#39;s GitHub stats" width="600"></p>
 </p>
 
 <p align="center">
@@ -53,7 +52,7 @@
   <a href="https://x.com/DevSagorIslam" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/DevSagorIslam" height="28">
   </a>
-  <a href="mailto:alaminislam1274@gmail.com?subject=Hello Dear Alamin! I send this message from your Github Profile. I need to talk to you!" target="_blank">
+  <a href="mailto:alaminislam1274@gmail.com?subject=Hello Dear Alamin! I am sending this message from your Github Profile. I need to talk to you!" target="_blank">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alaminislam1274@gmail.com" height="28">
   </a>
   <a href="https://github.com/SagorIslamOfficial" target="_blank">

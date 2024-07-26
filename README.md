@@ -1,33 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Muhammad Alamin Islam(Sagor)
-====================================================================================================================================================
+![Cover](https://github.com/alnahian2003/alnahian2003/assets/61485238/4fe0e2e6-f4e4-4f86-b4e1-2a293e61d55c)
 
-Full Stack Web Developer(Laravel) | WordPress | Accountant | Business Student
------------------------------------------------------------------
-
-I'm a full-stack web developer and business student, having earned a BBA in Accounting from Stamford University Bangladesh. As a non-CSE student and self-learner, developing development skills was challenging, but I succeeded. With positive reviews, I worked for 10 months as a full-stack developer for an investment company. Currently learning #VueJs and other essentials, I'm confident that I am one of the men who can be valuable assets for a business, company, or startup.
-
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [Personal Website **[not yet finished]**](https://sagorislam.dev)
-* ✉️  You can contact me at [alaminislam1274@gmail.com, sagor\_islam@icloud.com]
-* 🚀  I'm currently working on **[Local clients]** (https://hstradinginternational.com, https://inkingbd.com, https://thisisbas.co)
-* 🧠  I'm learning **VueJs**
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<h1 align="center">Howdy 👋, I'm Muhammad Alamin Islam(Sagor)! </h1>
+<p align="center">
+🔥 I'm a FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and trying to learn new things every day.
 </p>
 
+<h3 align="center">⚡ Skills I Possess</h3>
 
-### Socials
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
 
-<p align="left"> <a href="https://www.facebook.com/SagorIslamOfficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/SagorIslamOfficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sagorislamofficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/DevSagorIslam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="60" height="60"/>
+</a>
 
-### Badges
+</p>
 
-<b>My GitHub Stats</b>
+<p align="center">
+<a href="https://getcomposer.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="composer" width="60" height="60"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="60" height="60"/> </a>
+<a href="https://livewire.laravel.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" alt="livewire" width="60" height="60"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a>
 
-<a href="https://www.github.com/SagorIslamOfficial"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SagorIslamOfficial's GitHub stats" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
+<a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60"/> </a>
 
-<a href="https://www.github.com/SagorIslamOfficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagorIslamOfficial&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+<p align="center">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="60" height="60"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60"/> </a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a>
+
+</p>
+
+<br>
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Al Nahian&#39;s GitHub stats" width="600"></p>
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/SagorIslamOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/SagorIslamOfficial" height="28">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sagorislamofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/sagorislamofficial/" height="28">
+  </a>
+  
+  <a href="https://x.com/DevSagorIslam" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/DevSagorIslam" height="28">
+  </a>
+  
+  <a href="mailto:alaminislam1274@gmail.com?subject=Hello Dear Alamin! I send this message from your Github Profile. I need to talk to you!" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alaminislam1274@gmail.com" height="28">
+  </a>
+  <a href="https://github.com/SagorIslamOfficial" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SagorIslamOfficial?label=Github&style=flat" height="28">
+  </a>
+  <a href="https://github.com/SagorIslamOfficial" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=SagorIslamOfficial&label=Views&color=brightgreen&style=flat" alt="SagorIslamOfficial" height="28" />
+  </a>
+</p>
+
+<div align="center">
+<hr>
+<h3>Wanna Hear a Joke, Buddy? 😜</h3>
+<a href="https://github.com/ABSphreak/readme-jokes">
+<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
+</a>
+</div>

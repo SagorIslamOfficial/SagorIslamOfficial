@@ -39,7 +39,7 @@
 
 <br>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Al Nahian&#39;s GitHub stats" width="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Md Alamin Islam&#39;s GitHub stats" width="600"></p>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/SagorIslamOfficial" height="28">
   </a>
   <a href="https://www.linkedin.com/in/sagorislamofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/sagorislamofficial/" height="28">
+    <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/sagorislamofficial/" height="28">
   </a>
   <a href="https://x.com/DevSagorIslam" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/DevSagorIslam" height="28">

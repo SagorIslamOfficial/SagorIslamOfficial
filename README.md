@@ -2,7 +2,7 @@
 
 <h1 align="center">Howdy 👋, I'm Muhammad Alamin Islam(Sagor)! </h1>
 <p align="center">
-🔥 I'm a FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and trying to learn new things every day.
+🔥 I'm a Full-Stack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and trying to learn new things every day.
 
 <br>
   
@@ -16,14 +16,8 @@
   <a href="https://www.linkedin.com/in/sagorislamofficial/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/sagorislamofficial/" height="28">
   </a>
-  <a href="https://x.com/DevSagorIslam" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/DevSagorIslam" height="28">
-  </a>
   <a href="mailto:alaminislam1274@gmail.com?subject=Hello Dear Alamin! I am sending this message from your Github Profile. I need to talk to you!" target="_blank">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alaminislam1274@gmail.com" height="28">
-  </a>
-  <a href="https://github.com/SagorIslamOfficial" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SagorIslamOfficial?label=Github&style=flat" height="28">
   </a>
   <a href="https://github.com/SagorIslamOfficial" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=SagorIslamOfficial&label=Views&color=brightgreen&style=flat" alt="SagorIslamOfficial" height="28" />

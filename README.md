@@ -5,9 +5,6 @@
 🔥 I'm a Full-Stack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and trying to learn new things every day.
 
 <br>
-  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SagorIslamOfficial&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Md Alamin Islam&#39;s GitHub stats" width="600"></p>
-</p>
 
 <p align="center">
   <a href="https://facebook.com/SagorIslamOfficial" target="_blank">
@@ -25,9 +22,7 @@
 </p>
 
 <div align="center">
-<hr>
-<h3>Wanna Hear a Joke, Buddy? 😜</h3>
-<a href="https://github.com/ABSphreak/readme-jokes">
-<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
-</a>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=SagorIslamOfficial&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 </div>

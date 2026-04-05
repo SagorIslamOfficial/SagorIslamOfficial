@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=SagorIslamOfficial&theme=github_dark&graph=false&languages=true&streak=false&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=SagorIslamOfficial&theme=github_light&graph=false&languages=true&streak=false&stats=true&header=true&summary=true&profile=false" alt="Muhammad Alamin Islam(Sagor)" />
 </p>
